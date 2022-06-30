@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 n=input()
 z=n.split()
 q="aeiouAEIOU"
@@ -17,4 +24,3 @@ for i in z:
     if ma==c:
         x+=1
 print(x)
-    
